@@ -1,0 +1,23 @@
+body{
+font-family: Arial, sans-serif;
+background-color:white;
+  padding: 20px;
+}
+h1{
+ font-size: 36px;
+  text-align: center;
+  color: #333;
+  margin-bottom: 40px;
+}
+p{
+  font-size: 18px;
+  color: #444;
+  overflow: hidden;
+  padding: 10px 0;
+}
+.actor-img{
+  display: block;
+  width: 120px;
+  border-bottom: 8px;
+  margin: 10px 20px 10px 0;
+}
